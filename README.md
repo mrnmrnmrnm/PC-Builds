@@ -3,7 +3,7 @@
  ### [PCPartPicker List](https://pcpartpicker.com/user/GioGaming/saved/#view=qF3XYJ)
 
 <h2>Description</h2>
-Today I will explain the PC specifications of my personal computer build. While doing research for my build, I wanted a PC that would be great for gaming, surfing the web, and studying since I do at least one on a daily basis. Since I was on a budget, I was looking for a good price to performance ratio for each component. It is easy to just get the cheapest parts but since I wanted something reliable I made sure to use quality where needed to have a good running system.
+Today I will explain the PC specifications of my personal computer build and instructions on how to assemble/setup your own! While doing research for my build, I wanted a PC that would be great for gaming, surfing the web, and studying since I do at least one on a daily basis. Since I was on a budget, I was looking for a good price to performance ratio for each component. It is easy to just get the cheapest parts but since I wanted something reliable I made sure to use quality where needed to have a good running system.
 <br />
 
 
@@ -28,8 +28,6 @@ Today I will explain the PC specifications of my personal computer build. While 
 Chosen for compatibility with programs I already used and since I had a copy already.
 
 <h2>Assembly + Parts Description:</h2>
-
-Before starting make sure to have a clean workspace with ample space to assemble your machine. Idealy you would use an anti-static wrist strap or mat while working to ensure sensitive electronics do not recieve any damage.
 
 <br>
 
@@ -76,6 +74,8 @@ These fans were used instead of the fans included with the case. I wanted someth
 
 <br>
 Assembly and OS:
+
+Before starting, make sure to have a clean workspace with ample space to assemble your machine. Idealy you would use an anti-static wrist strap or mat while working to ensure sensitive electronics do not recieve any damage.
 
 1. Unpackage Case on your designated workstation and orientate so that the motherboard mounting is facing the ceiling. This helps with setting up the internals.
 
